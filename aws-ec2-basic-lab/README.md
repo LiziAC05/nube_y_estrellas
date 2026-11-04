@@ -170,23 +170,6 @@ The successful deployment should demonstrate:
 - Web server deployment and verification.
 - Public IPv4 addressing and DNS resolution.
 
-## Repository Structure
-
-```text
-aws-ec2-web-server-deployment/
-├── README.md
-├── scripts/
-│   └── user-data.sh
-├── docs/
-│   ├── architecture.md
-│   └── troubleshooting.md
-└── images/
-    ├── ec2-instance.png
-    ├── putty-connection.png
-    ├── nginx-status.png
-    └── web-page.png
-```
-
 ## Disclaimer
 
 This project was developed as a hands-on cloud computing laboratory.
